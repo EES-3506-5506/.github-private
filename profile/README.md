@@ -2,7 +2,5 @@
 
 [Course Online Textbook](https://hackmd.io/3QEs24V3QbqUmfabs7ezvg?both)
 
-Weekly Coursework:
-
 All course materials can be downloaded from Repositories > Select Repository > Code > Download ZIP or can be cloned into an your Azure Virtual Machine.
 
