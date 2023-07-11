@@ -1,12 +1,8 @@
-## Welcome to EES 3506 / 5506: Observing and Modeling Climate Change!
+## Welcome to EES 3506 / 5506: Observing and Modeling Climate Change Fall 2023!
 
-<!--
+[Course Online Textbook](https://hackmd.io/3QEs24V3QbqUmfabs7ezvg?both)
 
-**Here are some ideas to get you started:**
+Weekly Coursework:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-👀 Contribution guidelines - how do team members dive in?
-👩‍💻 Useful resources - where do you keep your docs? Is there anything else the team should know?
-🍪 Fun facts - what is your team's favorite snack?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+All course materials can be downloaded from Repositories > Select Repository > Code > Download ZIP or can be cloned into an your Azure Virtual Machine.
+
