@@ -4,3 +4,5 @@
 
 All course materials can be downloaded from Repositories > Select Repository > Code > Download ZIP or can be cloned into an your Azure Virtual Machine.
 
+The conda environment used can be set up with the .yml located [here](https://github.com/EES-3506-5506/.github-private/blob/main/conda_env.yml)
+
