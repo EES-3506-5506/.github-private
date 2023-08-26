@@ -2,6 +2,8 @@
 # To install, type the following in a terminal window in the 
 # directory that contains this .yml file
 #       conda env create -f ees3506_5506.yml
+# or with mamba (recommended):
+#       mamba env create -f ees3506_5506.yml
 
 # Sets the name of the environment
 name: ees3506_5506
