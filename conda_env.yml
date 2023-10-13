@@ -6,7 +6,7 @@
 #       mamba env create -f ees3506_5506.yml
 
 # Sets the name of the environment
-name: ees3506_5506
+name: ees3506_5506_1
 
 # This block of text identifies the "channels" from which python packages are
 # hosted and installed from. By default, the conda packae manager installs packages
@@ -43,7 +43,7 @@ dependencies:
  - nc-time-axis
  - netcdf4       # Wrapper for netcdf4
  - nodejs
- - numpy         # N-d array and numerics
+ - numpy=1.23.5         # N-d array and numerics
  - ocetrac
  - pandas        # Labeled array library
  - pytest
